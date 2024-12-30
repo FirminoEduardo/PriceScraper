@@ -1,0 +1,1 @@
+# Funções para interagir com o MongoDB
